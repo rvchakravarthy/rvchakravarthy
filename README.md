@@ -12,7 +12,6 @@ I'm a **Computer Science student at Clayton State University** and passionate ab
 ### **AI-Powered Note Summarizer**  
 📝 Built an **AI-driven summarization tool** using **GPT API**  
 💡 Designed an **interactive React UI** for better user experience  
-📊 Implemented **sentiment analysis** to extract emotional insights  
 
 ## 🔹 Skills & Tools  
 💻 **Languages:** Python | JavaScript | SQL | HTML | CSS  
