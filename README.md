@@ -1,22 +1,59 @@
-# Hi there! 👋 I'm Chakravarthy Venkatesh
+# Hi there! I'm Chakravarthy Venkatesh 
 
-🚀 **Aspiring Product Manager | Computer Science Student**  
+**Computer Engineering–focused Computer Science Student | Embedded & Systems Software**
 
-I'm a **Computer Science student at Clayton State University** and passionate about **AI-driven solutions and product management**. 
+I'm a **Computer Science student at Clayton State University** with a strong interest in **computer engineering, embedded systems, and systems-level software development**. 
+---
 
-## 🔹 About Me  
-- 🔭 Currently working on **AI & UX-focused projects**  
-- 📫 Please contact me at **rvchakravarthe@gmail.com**  
+## About Me
+- Focused on **embedded systems, firmware, and systems programming**
+- Interested in **Linux-based embedded systems, networking, and reliability**
+- Enjoy low-level debugging, performance, and fault-tolerant design
+- Contact: **rvchakravarthe@gmail.com**
 
-## 🔹 Projects  
-### **AI-Powered Note Summarizer**  
-📝 Built an **AI-driven summarization tool** using **GPT API**  
-💡 Designed an **interactive React UI** for better user experience  
+---
 
-## 🔹 Skills & Tools  
-💻 **Languages:** Python | JavaScript | SQL | HTML | CSS  
-⚙️ **Tools:** GitHub | JIRA | IntelliJ | Visual Studio | Eclipse  
+## Projects
 
-## 🔹 Certifications  
-✔️ **Becoming a Product Manager: A Complete Guide** (LinkedIn, Feb 2025)  
-✔️ **Product Management: Building a Product Strategy** (LinkedIn, Feb 2025)  
+### Embedded Linux Firmware (C)
+- Developed **C-based firmware** for a **Linux-based embedded system** simulating a **network gateway**
+- Implemented **TCP/IP communication**, message filtering, logging, and retry mechanisms
+- Designed **fault-tolerant behavior** to handle connection failures
+- Built **Python-based test scripts** to validate firmware behavior and error handling
+
+---
+
+### AI-Powered Note Summarizer
+- Built an **AI-driven summarization tool** using **GPT APIs**
+- Developed a **React-based UI** for text input and result visualization
+- Focused on clean architecture and API integration
+
+---
+
+## Skills & Tools
+
+### **Languages**
+C | C++ | Python | Java | JavaScript | SQL | HTML | CSS
+
+### **Systems & Platforms**
+Linux | Embedded Linux | TCP/IP | UDP
+
+### **Tools**
+Git | GitHub | Docker | IntelliJ | Eclipse | Visual Studio | PyCharm
+
+---
+
+## Coursework
+- Operating Systems
+- Computer Architecture
+- Data Structures & Algorithms
+- Applied Computing
+- Calculus, Linear Algebra, Discrete Mathematics
+
+---
+
+## Interests
+- Embedded Firmware Development
+- Systems Software Engineering
+- Networking & Communication Protocols
+- Hardware–Software Integration
