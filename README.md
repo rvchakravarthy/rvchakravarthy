@@ -10,6 +10,7 @@ I'm a **Computer Science student at Clayton State University** with a strong int
 - Interested in **Linux-based embedded systems, networking, and reliability**
 - Enjoy low-level debugging, performance, and fault-tolerant design
 - Contact: **rvchakravarthe@gmail.com**
+- LinkedIn: **https://www.linkedin.com/in/chakravarthy-ramalingam-venkatesh-82701b142/**
 
 ---
 
